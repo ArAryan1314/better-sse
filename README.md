@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [MatthewWid/better-sse](https://github.com/MatthewWid/better-sse), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://matthewwid.github.io/better-sse/>
+>
+> [![Standard CI](https://github.com/ArAryan1314/better-sse/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/better-sse/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 # Better SSE
 
 <p>
